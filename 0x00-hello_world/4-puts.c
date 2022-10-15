@@ -1,4 +1,4 @@
-#include <st9udio.h>
+#include <stdio.h>
 /**
  * main - Entry
  * Return: Always 0
