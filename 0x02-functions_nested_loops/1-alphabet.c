@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_alphabet - prints the alphabets in lowercasw
+ * print_alphabet - prints the alphabets in lowercase
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char la;
 
